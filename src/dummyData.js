@@ -201,7 +201,7 @@ export const productRows = [
   },
   {
     id: 6,
-    username: "John Snow",
+    name: "Apple Airpods",
     img: "https://images.unsplash.com/photo-1610438235354-a6ae5528385c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjBhaXJwb2RzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
     stock: "112",
     status: "active",
